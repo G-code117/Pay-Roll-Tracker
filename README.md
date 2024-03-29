@@ -1,2 +1,1 @@
-# Pay-Roll-Tracker
-java script for payroll tracker
+# Employee Payroll Tracker Starter Code
